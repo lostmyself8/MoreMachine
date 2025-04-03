@@ -1,0 +1,12 @@
+{
+  "type": "mekmm:recycler",
+  "input": {
+    "count": 1,
+    "tag": "c:stones"
+  },
+  "chance": 0.17,
+  "output": {
+    "count": 1,
+    "id": "mekmm:scrap"
+  }
+}

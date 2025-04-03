@@ -1,0 +1,36 @@
+{
+  "values": [
+    "mekmm:recycler",
+    "mekmm:basic_recycler_factory",
+    "mekmm:advanced_recycler_factory",
+    "mekmm:elite_recycler_factory",
+    "mekmm:ultimate_recycler_factory",
+    "mekmm:planting_station",
+    "mekmm:basic_planting_factory",
+    "mekmm:advanced_planting_factory",
+    "mekmm:elite_planting_factory",
+    "mekmm:ultimate_planting_factory",
+    "mekmm:cnc_stamper",
+    "mekmm:basic_stamping_factory",
+    "mekmm:advanced_stamping_factory",
+    "mekmm:elite_stamping_factory",
+    "mekmm:ultimate_stamping_factory",
+    "mekmm:cnc_lathe",
+    "mekmm:basic_lathe_factory",
+    "mekmm:advanced_lathe_factory",
+    "mekmm:elite_lathe_factory",
+    "mekmm:ultimate_lathe_factory",
+    "mekmm:cnc_rolling_mill",
+    "mekmm:basic_rolling_mill_factory",
+    "mekmm:advanced_rolling_mill_factory",
+    "mekmm:elite_rolling_mill_factory",
+    "mekmm:ultimate_rolling_mill_factory",
+    "mekmm:replicator",
+    "mekmm:ambient_gas_collector",
+    "mekmm:author_doll",
+
+    "mekmm:large_gas_burning_generator",
+    "mekmm:large_electrolytic_separator",
+    "mekmm:large_chemical_washer"
+  ]
+}

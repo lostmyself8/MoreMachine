@@ -1,0 +1,20 @@
+{
+  "type": "mekmm:planting",
+  "item_input": {
+    "count": 1,
+    "item": "minecraft:pumpkin_seeds"
+  },
+  "chemical_input": {
+    "amount": 1,
+    "chemical": "mekmm:nutrient_solution"
+  },
+  "main_output": {
+    "count": 1,
+    "id": "minecraft:pumpkin_seeds"
+  },
+  "secondary_output": {
+    "count": 1,
+    "id": "minecraft:pumpkin"
+  },
+  "per_tick_usage":true
+}

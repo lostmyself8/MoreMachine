@@ -1,0 +1,50 @@
+/give @p mekmm:precision_sawmill
+/give @p mekmm:recycler
+/give @p mekmm:scrap
+/mek testrules
+/give @p mekmm:basic_recycler_factory
+/give @p mekmm:advanced_recycler_factory
+/give @p mekmm:elite_recycler_factory
+/give @p mekmm:ultimate_recycler_factory
+/give @p mekmm:planting.station
+/give @p mekmm:advanced_planting_factory
+/give @p mekmm:ultimate_planting_factory
+/give @p mekmm:elite_planting_factory
+/give @p mekmm:advanced_planting_factory
+/give @p mekmm:basic_planting_factory
+/give @p mekmm:planting.station
+/give @p mekmm:planting_station
+/give @p mekmm:advanced_lathe_factory
+/give @p mekmm:cnc_lathe
+/give @p mekmm:cnc_rolling_mill
+/give @p mekmm:cnc_stamper
+/give @p mekmm:basic_lathe_factory
+/give @p mekmm:basic_rolling_mill_factory
+/give @p mekmm:basic_stamping_factory
+/give @p mekmm:basic_planting_factory
+/give @p mekmm:advanced_lathe_factory
+/give @p mekmm:advanced_stamping_factory
+/give @p mekmm:advanced_rolling_mill_factory
+/give @p mekmm:huge_gas_burning_generator
+/setblock ~ ~ ~ mekmm:huge_gas_burning_generator
+/setblock ~ ~ ~ mekanism:digital_miner
+/give @p mekmm:large_electrolytic_separator
+/fill -21 -60 56
+/fill -21 -60 56 -25 -57 52 air
+/give @p mekmm:large_electrolytic_separator
+/give @p mekmm:recycler
+/give @p minecraft:large_amethyst_bud
+/give @p mekmm:large_gas_burning_generator
+/give @p mekmm:large_chemical_washer
+/give @p mekmm:duplicator
+/give @p mekmm:replicator
+/give @p mekmm:author_doll
+/setblock -18 -60 36 mekmm:author_doll[facing=south]{redstone:0b}
+/summon minecraft:item_frame -16.50 -59.97 36.50 {Invisible: 1b}
+/give @p minecraft:item_frame [minecraft:entity_data={Invisible:1b, id:"minecraft:item_frame"}]
+/give @p minecraft:item_frame[minecraft:entity_data={Invisible:1b, id:"minecraft:item_frame"}]
+/give @p mekmm:basic_recycler_factory
+/give @p mekmm:ambient_gas_collector
+/give @p mekmm:uu_matter
+/give @p mekmm:empty_crystal
+/give @p mekmm:scrap_box
