@@ -27,8 +27,6 @@ import java.util.List;
 
 public abstract class LMTileEntityGenerator extends TileEntityMekanism {
 
-    private static final RelativeSide[] ENERGY_SIDES = {RelativeSide.FRONT};
-
     @Nullable
     private List<BlockEnergyCapabilityCache> outputCaches;
     /**
@@ -50,9 +48,7 @@ public abstract class LMTileEntityGenerator extends TileEntityMekanism {
      *
      * @return RelativeSide[]，例如{RelativeSide.FRONT,RelativeSide.BACK}
      */
-    protected RelativeSide[] getEnergySides() {
-        return ENERGY_SIDES;
-    }
+    protected abstract RelativeSide[] getEnergySides();
 
     @NotNull
     @Override
